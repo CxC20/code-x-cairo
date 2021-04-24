@@ -1,9 +1,16 @@
 body {
   text-align: center;
 }
+.portfolio-website {
+  max-width: 1000px;
+}
 h3 {
   font-style: italic;
 }
-img {
+.display-picture {
   border-radius: 50%;
+}
+.weather-app-preview {
+  max-width: 500px;
+  border-radius: 5px;
 }
