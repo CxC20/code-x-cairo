@@ -10,7 +10,8 @@ h3 {
 .display-picture {
   border-radius: 50%;
 }
+
 .weather-app-preview {
-  max-width: 500px;
+  max-height: 500px;
   border-radius: 5px;
 }
